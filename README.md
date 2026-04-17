@@ -174,6 +174,7 @@ Les données des collègues restent **100% en local** dans le dossier `colleague
 ## Auteur
 
 Projet concu et developpe par **Kuate Joel Parfait** — **Digital House Company**
+https://www.linkedin.com/in/joelparfaitkuate/
 
 ---
 
